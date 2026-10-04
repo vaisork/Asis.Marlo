@@ -127,6 +127,7 @@ Los roles distintos del Arquitecto Web descritos arriba son **fronteras conceptu
 |---|---|---|---|
 | `arquitecto-web-asis-marlo-01` | Arquitecto Web de Asis Marlo | [`agentes/arquitecto-web-asis-marlo-01.md`](agentes/arquitecto-web-asis-marlo-01.md) | 2026-10-03 |
 | `revisor-marca-asis-marlo-01` | Dirección / Revisión de Marca de Asis Marlo | [`agentes/revisor-marca-asis-marlo-01.md`](agentes/revisor-marca-asis-marlo-01.md) | 2026-10-03 |
+| `editor-fotografico-web-asis-marlo-01` | Editor Fotográfico Web de Asis Marlo | [`agentes/editor-fotografico-web-asis-marlo-01.md`](agentes/editor-fotografico-web-asis-marlo-01.md) | 2026-10-03 |
 
 ## Cómo registrar un agente nuevo
 
